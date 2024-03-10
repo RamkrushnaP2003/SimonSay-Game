@@ -1,6 +1,7 @@
 # Simon Says Game
 
-# Languages
-*html
-*css
-*JavaScript
+Designed and Build a website using HTML CSS JavaScript
+
+# Follow This Link
+
+https://simonsaybyram.netlify.app/
